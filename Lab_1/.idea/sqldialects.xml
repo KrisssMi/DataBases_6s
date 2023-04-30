@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://D:/Загрузки/Labs_DB/SecurityDB-main/SecurityDB-main/Lab4/tables.sql" dialect="TSQL" />
+    <file url="file://D:/Загрузки/Labs_DB/SecurityDB-main/SecurityDB-main/Lab7/mssql.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../KR_WindowFunctions.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/ASP_Lab_3.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Inserting.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/ProcFuncIndexTrigView.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Tables.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/ksd.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab_3/Lab_3_SQLServer/Lab_3_SQLServer/bin/Debug/Lab_3_SQLServer.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab_5/Lab_5.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab_5/Lab_5_Vasya.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab_7/TablesOracle.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/../Lab_7/oracle.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/../../Office_MSSQL.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../РИС/Labs/Lab_3/Lab_3.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/../../../РИС/RIS-6sem-main/4-6/SQLQuery1.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../../../_/2 sem/Node.js/Labs/Node_Lab2(18)/my/SQL.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../../../_/2 sem/RIS/Labs/RIS_Lab3/Lab3.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/../../../../../_/2 sem/RIS/Labs/RIS_Lab4-6/server-main/db.sql" dialect="TSQL" />
+  </component>
+</project>

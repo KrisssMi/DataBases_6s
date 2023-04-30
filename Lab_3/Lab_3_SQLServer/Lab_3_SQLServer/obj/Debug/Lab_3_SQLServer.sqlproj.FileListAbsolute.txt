@@ -1,0 +1,10 @@
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\bin\Debug\Lab_3_SQLServer.dacpac
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\bin\Debug\Lab_3_SQLServer.dll
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\bin\Debug\Lab_3_SQLServer.pdb
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\obj\Debug\Lab_3_SQLServer.sqlproj.AssemblyReference.cache
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\obj\Debug\Lab_3_SQLServer.dll
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\obj\Debug\Lab_3_SQLServer.pdb
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\obj\Debug\Model.xml
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\obj\Debug\refactor.xml
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\obj\Debug\postdeploy.sql
+E:\BSTU\3_course\Databases_2s\Labs\Lab_3\Lab_3_SQLServer\Lab_3_SQLServer\obj\Debug\predeploy.sql
